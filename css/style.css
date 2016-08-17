@@ -9,9 +9,6 @@
 .icon-block {
   padding: 0 15px;
 }
-.icon-block:hover {
-background:white;
-}
 .icon-block .material-icons {
 	font-size: inherit;
 }
@@ -38,12 +35,15 @@ background:white;
 .card.small {
   display:inline-flex;
   height:50%;
-
 }
+
 .header.center.orange-text {
   text-align:center;
 }
 
 .materialize-textarea {
   width:100%;
+}
+.chip:hover {
+ background:white;
 }
