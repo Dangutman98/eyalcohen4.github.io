@@ -9,6 +9,9 @@
 .icon-block {
   padding: 0 15px;
 }
+.icon-block:hover {
+background:white;
+}
 .icon-block .material-icons {
 	font-size: inherit;
 }
