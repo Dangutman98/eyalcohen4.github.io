@@ -1,0 +1,46 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.section.no-pad-bot {
+  margin-top:-30px;
+}
+.section.icons {
+  margin-top:-15px;
+}
+.btn-flat {
+  background:#00CC00;
+}
+.header.center.orange-text {
+  margin-top:-10px;
+}
+.skillHead {
+  text-align:center;
+  color:#202020;
+}
+.circle.responsive-img.profile {
+  width:60px;
+  height:60px;
+}
+.card.small {
+  display:inline-flex;
+  height:50%;
+
+}
+.header.center.orange-text {
+  text-align:center;
+}
+
+.materialize-textarea {
+  width:100%;
+}
