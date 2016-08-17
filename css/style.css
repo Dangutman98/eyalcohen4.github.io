@@ -15,9 +15,6 @@
 .section.no-pad-bot {
   margin-top:-30px;
 }
-.section.icons {
-  margin-top:-15px;
-}
 .btn-flat {
   background:#00CC00;
 }
@@ -40,10 +37,6 @@
 .header.center.orange-text {
   text-align:center;
 }
-
 .materialize-textarea {
   width:100%;
-}
-.chip:hover {
- background:white;
 }
