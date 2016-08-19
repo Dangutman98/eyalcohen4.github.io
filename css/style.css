@@ -9,14 +9,17 @@
 .icon-block {
   padding: 0 15px;
 }
+.icon-block:hover {
+background:white;
+}
 .icon-block .material-icons {
 	font-size: inherit;
 }
-.section.icons {
-  margin-top: 50px;
-}
 .section.no-pad-bot {
   margin-top:-30px;
+}
+.section.icons {
+  margin-top:-15px;
 }
 .btn-flat {
   background:#00CC00;
@@ -35,11 +38,21 @@
 .card.small {
   display:inline-flex;
   height:50%;
-}
 
+}
 .header.center.orange-text {
   text-align:center;
 }
 .materialize-textarea {
   width:100%;
+}
+.card-action {
+  font-weight: 600;
+}
+.header.projects {
+  text-align:center;
+  color:orange;
+}
+.section.icons {
+  height:250px;
 }
