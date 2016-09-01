@@ -6,8 +6,13 @@
  * Made By MaterializeCSS.com
  */
 
-#skills #contact #projects{
+#skills, #contact, #projects {
   display:none;
+}
+.btn-floating.up {
+  position:fixed;
+  bottom:0;
+  right:0;
 }
 .icon-block {
   padding: 0 15px;
